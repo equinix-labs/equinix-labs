@@ -22,26 +22,26 @@ Whether or not strict guidelines have been provided for the project type, our re
 [] Has the Private label
 
 # Experimental Repository Minimum Requirements
-[] The Experimental label
-[] The Experimental Statement in the README.md
-[] LICENSE
-[] README.md
-[] OWNERS.md
-[] Developer Certificate of Origin https://github.com/apps/dco
-[] At least one active maintainer
-[] Activity within the past three months
+[] The Experimental label<br>
+[] The Experimental Statement in the README.md<br>
+[] LICENSE<br>
+[] README.md<br>
+[] OWNERS.md<br>
+[] Developer Certificate of Origin https://github.com/apps/dco<br>
+[] At least one active maintainer<br>
+[] Activity within the past three months<br>
 
 # Maintained Repository Minimum Requirements
-[] The Maintained label
-[] The Maintained Statement in the README.md
-[] LICENSE
-[] README.md
-[] OWNERS.md
-[] Developer Certificate of Origin https://github.com/apps/dco
-[] At least two active maintainers
-[] Activity within the past three weeks
-[] A Manifest File
-[] Code of Conduct
-[] How to Contribute
-[] SUPPORT.md
+[] The Maintained label<br>
+[] The Maintained Statement in the README.md<br>
+[] LICENSE<br>
+[] README.md<br>
+[] OWNERS.md<br>
+[] Developer Certificate of Origin https://github.com/apps/dco<br>
+[] At least two active maintainers<br>
+[] Activity within the past three weeks<br>
+[] A Manifest File<br>
+[] Code of Conduct<br>
+[] How to Contribute<br>
+[] SUPPORT.md<br>
 [] RELEASE.md
