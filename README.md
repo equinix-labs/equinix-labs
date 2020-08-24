@@ -28,7 +28,8 @@ Whether or not strict guidelines have been provided for the project type, our re
 [] README.md<br>
 [] OWNERS.md<br>
 [] Developer Certificate of Origin https://github.com/apps/dco<br>
-[] At least one maintainer
+[] At least one maintainer<br>
+[] CI/CD
 
 ### Maintained Repository Minimum Requirements
 [] The Maintained label<br>
@@ -38,6 +39,7 @@ Whether or not strict guidelines have been provided for the project type, our re
 [] OWNERS.md<br>
 [] Developer Certificate of Origin https://github.com/apps/dco<br>
 [] At least two maintainers<br>
+[] CI/CD<br>
 [] A Manifest File<br>
 [] Code of Conduct<br>
 [] How to Contribute<br>
