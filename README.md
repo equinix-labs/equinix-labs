@@ -22,7 +22,11 @@ Whether or not strict guidelines have been provided for the project type, our re
 * [ ] Has the Private badge
 
 ### Experimental Tier Minimum Requirements
-* [ ] The Experimental badge
+
+The following list of requirements can be used to create progress tracking issues on new projects as they are transitioned into the desired state.
+
+```
+* [ ] The Experimental badge ![](https://img.shields.io/badge/stability-experimental%20%F0%9F%A7%AA-orange.svg)
 * [ ] The Experimental Statement in the README.md
 * [ ] LICENSE
 * [ ] README.md
@@ -30,9 +34,14 @@ Whether or not strict guidelines have been provided for the project type, our re
 * [ ] Developer Certificate of Origin https://github.com/apps/dco
 * [ ] At least one maintainer
 * [ ] CI/CD
+```
 
 ### Maintained Tier Minimum Requirements
-* [ ] The Maintained badge
+
+The following list of requirements can be used to create progress tracking issues on new projects as they are transitioned into the desired state.
+
+```
+* [ ] The Maintained badge ![](https://img.shields.io/badge/stability-maintained-green.svg)
 * [ ] The Maintained Statement in the README.md
 * [ ] LICENSE
 * [ ] README.md
@@ -45,3 +54,4 @@ Whether or not strict guidelines have been provided for the project type, our re
 * [ ] How to Contribute
 * [ ] SUPPORT.md
 * [ ] RELEASE.md
+```
