@@ -19,29 +19,29 @@ We should share our improvements with each ecosystem while seeking and respectin
 Whether or not strict guidelines have been provided for the project type, our repositories should ensure that the same components are offered across the board. How these components are provided may vary, based on the conventions of the project type. GitHub provides general guidance on this which they have integrated into their user experience.
 
 ### Private Repository Minimum Requirements
-[] Has the Private badge
+* [ ] Has the Private badge
 
 ### Experimental Repository Minimum Requirements
-[] The Experimental badge<br>
-[] The Experimental Statement in the README.md<br>
-[] LICENSE<br>
-[] README.md<br>
-[] OWNERS.md<br>
-[] Developer Certificate of Origin https://github.com/apps/dco<br>
-[] At least one maintainer<br>
-[] CI/CD
+* [ ] The Experimental badge
+* [ ] The Experimental Statement in the README.md
+* [ ] LICENSE
+* [ ] README.md
+* [ ] OWNERS.md
+* [ ] Developer Certificate of Origin https://github.com/apps/dco
+* [ ] At least one maintainer
+* [ ] CI/CD
 
 ### Maintained Repository Minimum Requirements
-[] The Maintained badge<br>
-[] The Maintained Statement in the README.md<br>
-[] LICENSE<br>
-[] README.md<br>
-[] OWNERS.md<br>
-[] Developer Certificate of Origin https://github.com/apps/dco<br>
-[] At least two maintainers<br>
-[] CI/CD<br>
-[] A Manifest File<br>
-[] Code of Conduct<br>
-[] How to Contribute<br>
-[] SUPPORT.md<br>
-[] RELEASE.md
+* [ ] The Maintained badge
+* [ ] The Maintained Statement in the README.md
+* [ ] LICENSE
+* [ ] README.md
+* [ ] OWNERS.md
+* [ ] Developer Certificate of Origin https://github.com/apps/dco
+* [ ] At least two maintainers
+* [ ] CI/CD
+* [ ] A Manifest File
+* [ ] Code of Conduct
+* [ ] How to Contribute
+* [ ] SUPPORT.md
+* [ ] RELEASE.md
