@@ -18,10 +18,10 @@ We should share our improvements with each ecosystem while seeking and respectin
 
 Whether or not strict guidelines have been provided for the project type, our repositories should ensure that the same components are offered across the board. How these components are provided may vary, based on the conventions of the project type. GitHub provides general guidance on this which they have integrated into their user experience.
 
-### Private Repository Minimum Requirements
+### Private Tier Minimum Requirements
 * [ ] Has the Private badge
 
-### Experimental Repository Minimum Requirements
+### Experimental Tier Minimum Requirements
 * [ ] The Experimental badge
 * [ ] The Experimental Statement in the README.md
 * [ ] LICENSE
@@ -31,7 +31,7 @@ Whether or not strict guidelines have been provided for the project type, our re
 * [ ] At least one maintainer
 * [ ] CI/CD
 
-### Maintained Repository Minimum Requirements
+### Maintained Tier Minimum Requirements
 * [ ] The Maintained badge
 * [ ] The Maintained Statement in the README.md
 * [ ] LICENSE
