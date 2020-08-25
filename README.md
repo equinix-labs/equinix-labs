@@ -24,22 +24,24 @@ Whether or not strict guidelines have been provided for the project type, our re
 ### Experimental Tier Minimum Requirements
 * [ ] The Experimental badge
 * [ ] The Experimental Statement in the README.md
-* [ ] LICENSE
+* [ ] Getting Started Tutorial
 * [ ] README.md
+* [ ] LICENSE
+* [ ] CI/CD
 * [ ] OWNERS.md
 * [ ] Developer Certificate of Origin https://github.com/apps/dco
 * [ ] At least one maintainer
-* [ ] CI/CD
 
 ### Maintained Tier Minimum Requirements
 * [ ] The Maintained badge
 * [ ] The Maintained Statement in the README.md
-* [ ] LICENSE
+* [ ] Getting Started Tutorial
 * [ ] README.md
+* [ ] LICENSE
+* [ ] CI/CD
 * [ ] OWNERS.md
 * [ ] Developer Certificate of Origin https://github.com/apps/dco
 * [ ] At least two maintainers
-* [ ] CI/CD
 * [ ] A Manifest File
 * [ ] Code of Conduct
 * [ ] How to Contribute
