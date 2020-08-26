@@ -8,7 +8,7 @@ Packet maintains a number of public repositories that help customers to run vari
 * Many of our repositories are put online with no formal communication with, or training for, customer success. This leads to a below average support experience when things do go wrong.
 * We spend a huge amount of time supporting users through various channels when with better upfront planning, documentation and testing much of this support work could be eliminated.
 
-To that end, we propose three tiers of repositories: Private, Experimental, and Maintained.
+To that end, we propose three tiers of repositories: [Private](https://github.com/packethost/standards#private-tier-minimum-requirements), [Experimental](https://github.com/packethost/standards#experimental-tier-minimum-requirements), and [Maintained](https://github.com/packethost/standards#maintained-tier-minimum-requirements).
 
 ## The Goal
 Our repositories should be the example from which adjacent, competing, projects look for inspiration.
