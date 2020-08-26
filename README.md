@@ -19,6 +19,7 @@ We should share our improvements with each ecosystem while seeking and respectin
 
 Whether or not strict guidelines have been provided for the project type, our repositories should ensure that the same components are offered across the board. How these components are provided may vary, based on the conventions of the project type. GitHub provides general guidance on this which they have integrated into their user experience.
 
+```
 ### Private Tier Minimum Requirements
 * [ ] The Private badge
 
@@ -48,3 +49,4 @@ Whether or not strict guidelines have been provided for the project type, our re
 * [ ] [How to Contribute](https://github.com/packethost/standards/blob/master/glossary.md#contributors-guide)
 * [ ] [SUPPORT.md](https://github.com/packethost/standards/blob/master/glossary.md#supportmd)
 * [ ] [RELEASE.md](https://github.com/packethost/standards/blob/master/glossary.md#releasemd)
+```
