@@ -35,7 +35,7 @@ Whether or not strict guidelines have been provided for the project type, our re
 ### Maintained Tier Minimum Requirements
 * [ ] [The Maintained badge](https://github.com/packethost/standards/blob/master/glossary.md#maintained-badge)
 * [ ] [The Maintained Statement in the README.md](https://github.com/packethost/standards/blob/master/glossary.md#maintained-statement)
-* [ ] Getting Started Tutorial
+* [ ] [Getting Started Tutorial](https://github.com/packethost/standards/blob/master/glossary.md#getting-started-tutorial)
 * [ ] [README.md](https://github.com/packethost/standards/blob/master/glossary.md#readmemd)
 * [ ] [LICENSE](https://github.com/packethost/standards/blob/master/glossary.md#license)
 * [ ] [CI/CD](https://github.com/packethost/standards/blob/master/glossary.md#cicd)
