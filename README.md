@@ -22,28 +22,28 @@ Whether or not strict guidelines have been provided for the project type, our re
 * [ ] The Private badge
 
 ### Experimental Tier Minimum Requirements
-* [ ] The Experimental badge
-* [ ] The Experimental Statement in the README.md
-* [ ] Getting Started Tutorial
-* [ ] README.md
-* [ ] LICENSE
-* [ ] CI/CD
-* [ ] OWNERS.md
-* [ ] Developer Certificate of Origin https://github.com/apps/dco
-* [ ] At least one maintainer
+* [ ] [The Experimental badge](https://github.com/packethost/standards/blob/master/glossary.md#experimental-badge)
+* [ ] [The Experimental Statement in the README.md](https://github.com/packethost/standards/blob/master/glossary.md#experimental-statement)
+* [ ] [Getting Started Tutorial](https://github.com/packethost/standards/blob/master/glossary.md#getting-started-tutorial)
+* [ ] [README.md](https://github.com/packethost/standards/blob/master/glossary.md#readmemd)
+* [ ] [LICENSE](https://github.com/packethost/standards/blob/master/glossary.md#license)
+* [ ] [CI/CD](https://github.com/packethost/standards/blob/master/glossary.md#cicd)
+* [ ] [OWNERS.md](https://github.com/packethost/standards/blob/master/glossary.md#ownersmd)
+* [ ] [Developer Certificate of Origin](https://github.com/packethost/standards/blob/master/glossary.md#developer-certificate-of-origin)
+* [ ] At least one [maintainer](https://github.com/packethost/standards/blob/master/glossary.md#maintainer)
 
 ### Maintained Tier Minimum Requirements
-* [ ] The Maintained badge
-* [ ] The Maintained Statement in the README.md
+* [ ] [The Maintained badge](https://github.com/packethost/standards/blob/master/glossary.md#maintained-badge)
+* [ ] [The Maintained Statement in the README.md](https://github.com/packethost/standards/blob/master/glossary.md#maintained-statement)
 * [ ] Getting Started Tutorial
-* [ ] README.md
-* [ ] LICENSE
-* [ ] CI/CD
-* [ ] OWNERS.md
-* [ ] Developer Certificate of Origin https://github.com/apps/dco
-* [ ] At least two maintainers
-* [ ] A Manifest File
-* [ ] Code of Conduct
-* [ ] How to Contribute
-* [ ] SUPPORT.md
-* [ ] RELEASE.md
+* [ ] [README.md](https://github.com/packethost/standards/blob/master/glossary.md#readmemd)
+* [ ] [LICENSE](https://github.com/packethost/standards/blob/master/glossary.md#license)
+* [ ] [CI/CD](https://github.com/packethost/standards/blob/master/glossary.md#cicd)
+* [ ] [OWNERS.md](https://github.com/packethost/standards/blob/master/glossary.md#ownersmd)
+* [ ] [Developer Certificate of Origin](https://github.com/packethost/standards/blob/master/glossary.md#developer-certificate-of-origin)
+* [ ] At least two [maintainers](https://github.com/packethost/standards/blob/master/glossary.md#maintainer)
+* [ ] [A Manifest File](https://github.com/packethost/standards/blob/master/glossary.md#manifest-file)
+* [ ] [Code of Conduct](https://github.com/packethost/standards/blob/master/glossary.md#code-of-conduct)
+* [ ] [How to Contribute](https://github.com/packethost/standards/blob/master/glossary.md#contributors-guide)
+* [ ] [SUPPORT.md](https://github.com/packethost/standards/blob/master/glossary.md#supportmd)
+* [ ] [RELEASE.md](https://github.com/packethost/standards/blob/master/glossary.md#releasemd)
