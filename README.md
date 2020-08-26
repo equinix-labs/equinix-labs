@@ -1,4 +1,5 @@
 # Uniform Standards for External Facing Repositories
+![](https://img.shields.io/badge/stability-maintained-green.svg)
 
 ## Why Are We Here?
 Packet maintains a number of public repositories that help customers to run various workloads on Packet. These repositories are in various states of completeness and quality, and being public, developers often find them and start using them. This creates problems:
