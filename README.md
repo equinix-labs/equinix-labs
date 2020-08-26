@@ -19,11 +19,17 @@ We should share our improvements with each ecosystem while seeking and respectin
 
 Whether or not strict guidelines have been provided for the project type, our repositories should ensure that the same components are offered across the board. How these components are provided may vary, based on the conventions of the project type. GitHub provides general guidance on this which they have integrated into their user experience.
 
-```
+## The Requirements
+Each tier, Private, Experimental, and Maintained has its own list of requirements that mostly builds on the tier before. Feel free to copy / paste the pertinent section as an issue in the relevant repository. If anything's missing, file an issue on this repository.
+
 ### Private Tier Minimum Requirements
-* [ ] The Private badge
+```
+* [ ] Flagged Private
+```
 
 ### Experimental Tier Minimum Requirements
+```
+* [ ] Flagged Public
 * [ ] [The Experimental badge](https://github.com/packethost/standards/blob/master/glossary.md#experimental-badge)
 * [ ] [The Experimental Statement in the README.md](https://github.com/packethost/standards/blob/master/glossary.md#experimental-statement)
 * [ ] [Getting Started Tutorial](https://github.com/packethost/standards/blob/master/glossary.md#getting-started-tutorial)
@@ -33,8 +39,11 @@ Whether or not strict guidelines have been provided for the project type, our re
 * [ ] [OWNERS.md](https://github.com/packethost/standards/blob/master/glossary.md#ownersmd)
 * [ ] [Developer Certificate of Origin](https://github.com/packethost/standards/blob/master/glossary.md#developer-certificate-of-origin)
 * [ ] At least one [maintainer](https://github.com/packethost/standards/blob/master/glossary.md#maintainer)
+```
 
 ### Maintained Tier Minimum Requirements
+```
+* [ ] Flagged Public
 * [ ] [The Maintained badge](https://github.com/packethost/standards/blob/master/glossary.md#maintained-badge)
 * [ ] [The Maintained Statement in the README.md](https://github.com/packethost/standards/blob/master/glossary.md#maintained-statement)
 * [ ] [Getting Started Tutorial](https://github.com/packethost/standards/blob/master/glossary.md#getting-started-tutorial)
