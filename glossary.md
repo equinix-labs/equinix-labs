@@ -4,7 +4,7 @@
 In software engineering, [CI/CD or CICD](https://en.wikipedia.org/wiki/CI/CD) generally refers to the combined practices of continuous integration and either continuous delivery or continuous deployment. CI/CD bridges the gaps between development and operation activities and teams by enforcing automation in building, testing and deployment of applications. Modern day DevOps practices involve continuous development, continuous testing, continuous integration, continuous deployment and continuous monitoring of software applications throughout its development life cycle. The CI/CD practice or CI/CD pipeline forms the backbone of modern day DevOps operations.
 
 ## Code of Conduct
-This may be included in the body of READMEs or in separate files for other providers of the project type. These are generally sensible. If the same Code exists in another Packet owned project, it can be assumed to be approved. 
+This may be included in the body of README or in separate files for other providers of the project type. These are generally sensible. If the same Code exists in another Packet owned project, it can be assumed to be approved. 
 
 ## Contributors Guide
 Contributing notes may be included in README.md or in a separate CONTRIBUTING.md.  Expectations around licensing, copyright, and what to expect when contributing to this project should be covered. Tips on what linters and tests are run should be provided so that users can perform these locally. These may differ from project to project, even among common programming languages, based on the ecosystem of the project.
