@@ -33,6 +33,9 @@ Every OSS project should include an approved OSS license. Observe instructions i
 ## Maintained Statement
 This repository is [Maintained](https://github.com/packethost/standards/blob/master/maintained-statement.md)!
 
+## Maintainer
+An organization owner can promote any member of the organization to team [maintainer](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/giving-team-maintainer-permissions-to-an-organization-member) for a team, giving them a subset of privileges available to organization owners.
+
 ## Manifest File
 Files such as package.json which provide metadata about the project as a whole. Packet projects will become more visible with the appropriate set of categories, keywords, and tags. Consider including “packet”, “bare metal”, “on-premise”, “hybrid-cloud”, and “cloud”. Build from there. Project descriptions and overviews should be taken advantage of as well. Logos are a common feature, make sure our projects are including branding approved logos made to fit the project’s visual requirements and theme. Inherited projects may be using dated or unofficial logos.
 
