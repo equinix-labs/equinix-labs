@@ -39,6 +39,9 @@ An organization owner can promote any member of the organization to team [mainta
 ## Manifest File
 Files such as package.json which provide metadata about the project as a whole. Packet projects will become more visible with the appropriate set of categories, keywords, and tags. Consider including “packet”, “bare metal”, “on-premise”, “hybrid-cloud”, and “cloud”. Build from there. Project descriptions and overviews should be taken advantage of as well. Logos are a common feature, make sure our projects are including branding approved logos made to fit the project’s visual requirements and theme. Inherited projects may be using dated or unofficial logos.
 
+## Owner
+An repository owner is the last line of defense if no maintainer has responded to an issue or pull request after a certain amount of time. This person follows up with the relevant maintainers of a repository to move forward on a feature or bug.  
+
 ## OWNERS.md
 This file defines governance and should be used to identify the maintainers of the project (people before organizations) and how the direction of the project is controlled. A project that has been given to the community should have clear governance otherwise the project risks favoring the original contributors and being perceived as such. Packet projects should have at least two owners.
 
