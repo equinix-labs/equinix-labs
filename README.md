@@ -30,7 +30,7 @@ Whether or not strict guidelines have been provided for the project type, our re
 
 ## The Requirements
 
-Each tier, Private, Experimental, and Maintained has its own list of requirements that mostly builds on the tier before. Feel free to copy / paste from one of the issue templates provided in [the process](#this-process) below to create a new issue in the repository. If anything's missing, file an issue on this repository.
+Each tier, Private, Experimental, and Maintained has its own list of requirements that mostly builds on the tier before. Feel free to copy / paste from one of the issue templates provided in [the process](#the-process) below to create a new issue in the repository. If anything's missing, file an issue on this repository.
 
 ### Private Tier
 
