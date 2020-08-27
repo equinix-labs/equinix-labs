@@ -4,7 +4,7 @@
 This repository is [Maintained](https://github.com/packethost/standards/blob/master/maintained-statement.md)!
 
 ## Short Statement
-This repository is Maintained meaning that it's based on tested ideas and techniques supported by Packet and its community. This software is available to use in production environments.
+This repository is Maintained meaning that this software is supported by Packet and its community - available to use in production environments.
 
 ## Extended Statement
 This repository is Maintained meaning that it's based on tested ideas and techniques supported by Packet and its community. This software is available to use in production environments.
