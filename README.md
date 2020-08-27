@@ -1,6 +1,6 @@
 # Uniform Standards for External Facing Repositories
 
-![](https://img.shields.io/badge/stability-maintained-green.svg)
+![](https://img.shields.io/badge/stability-maintained-green.svg) [![Slack](https://slack.packet.com/badge.svg)](https://slack.packet.com) [![Twitter Follow](https://img.shields.io/twitter/follow/packethost.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=packethost)
 
 This repository is [Maintained](https://github.com/packethost/standards/blob/master/maintained-statement.md)!
 
