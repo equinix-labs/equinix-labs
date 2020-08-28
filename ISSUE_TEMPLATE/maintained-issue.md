@@ -12,7 +12,7 @@ We believe this repository is Maintained and therefore needs the following files
 * [ ] [OWNERS.md](https://github.com/packethost/standards/blob/master/glossary.md#ownersmd)
 * [ ] [Developer Certificate of Origin](https://github.com/packethost/standards/blob/master/glossary.md#developer-certificate-of-origin)
 * [ ] At least two [maintainers](https://github.com/packethost/standards/blob/master/glossary.md#maintainer)
-* [ ] [A Manifest File](https://github.com/packethost/standards/blob/master/glossary.md#manifest-file)
+* [ ] [A Manifest File](https://github.com/packethost/standards/blob/master/glossary.md#manifest-file), if relevant
 * [ ] [Code of Conduct](https://github.com/packethost/standards/blob/master/glossary.md#code-of-conduct)
 * [ ] [How to Contribute](https://github.com/packethost/standards/blob/master/glossary.md#contributors-guide)
 * [ ] [SUPPORT.md](https://github.com/packethost/standards/blob/master/glossary.md#supportmd)
