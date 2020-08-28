@@ -47,9 +47,9 @@ This repository is [Maintained](https://github.com/packethost/standards/blob/mas
 
 An organization owner can promote any member of the organization to team [maintainer](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/giving-team-maintainer-permissions-to-an-organization-member) for a team, giving them a subset of privileges available to organization owners.
 
-## Manifest File (If Needed)
+## Manifest File
 
-Files such as package.json which provide metadata about the project as a whole. Packet projects will become more visible with the appropriate set of categories, keywords, and tags. Consider including “packet”, “bare metal”, “on-premise”, “hybrid-cloud”, and “cloud”. Build from there. Project descriptions and overviews should be taken advantage of as well. Logos are a common feature, make sure our projects are including branding approved logos made to fit the project’s visual requirements and theme. Inherited projects may be using dated or unofficial logos. 
+Used most commonly in Java, the manifest is a special file that can contain information about the files packaged in a JAR file. By tailoring this "meta" information that the manifest contains, you enable the manifest file to serve a variety of purposes. Other programming languages have similar manifest files, but even if you're project is a markdown or documentation project, you can use the manifest file to store the appropriate set of categories, keywords, and tags. Consider including “packet”, “bare metal”, “on-premise”, “hybrid-cloud”, and “cloud”. Build from there. Project descriptions and overviews should be taken advantage of as well. Logos are a common feature, make sure our projects are including branding approved logos made to fit the project’s visual requirements and theme.
 
 ## Owner
 
@@ -74,7 +74,7 @@ Readme files pertain to the contents of a directory or the scope of a repository
 
 ## RELEASE.md
 
-Release knowledge is often lost when not recorded properly. A RELEASE.md should be used to record this information. How is the software built for distribution? How many channels, architectures, artifacts are there? How and where are tags applied? Are tags referenced and tracked in multiple places - Git, docs, config files, Docker images? What commands are needed to run the release? What responsibilities do humans have and what responsibilities do robots have (consider automation like [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter))? What changelogs or documentation should be updated on release?
+Release knowledge is often lost when not recorded properly. A RELEASE.md could be used to record this information - consider automation like [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter). How is the software built for distribution? How many channels, architectures, artifacts are there? How and where are tags applied? Are tags referenced and tracked in multiple places - Git, docs, config files, Docker images? What commands are needed to run the release? What responsibilities do humans have and what responsibilities do robots have? What changelogs or documentation should be updated on release?
 
 ## SUPPORT.md
 
