@@ -8,7 +8,7 @@ If you require support, please email [support@packet.com](mailto:support@packet.
 
 [Contributions](https://github.com/packethost/standards/blob/master/CONTRIBUTING.md) are welcome to help extend this work!
 
-## About Uniform Standards
+## About Uniform Standards.
 
 Packet maintains a number of public repositories that help customers to run various workloads on Packet. These repositories are in various states of completeness and quality, and being public, developers often find them and start using them. This creates problems:
 
