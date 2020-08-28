@@ -1,6 +1,6 @@
 Hello!
 
-We believe this repository is Maintained and therefore needs the following files applied / updated:
+We believe this repository is Maintained and therefore needs the following files updated:
 
 * [ ] Flagged Public
 * [ ] [The Maintained badge](https://github.com/packethost/standards/blob/master/glossary.md#maintained-badge)
@@ -18,7 +18,7 @@ We believe this repository is Maintained and therefore needs the following files
 * [ ] [SUPPORT.md](https://github.com/packethost/standards/blob/master/glossary.md#supportmd)
 * [ ] [RELEASE.md](https://github.com/packethost/standards/blob/master/glossary.md#releasemd)
 
-If you feel the repository should be experimental or end of life or that you'll need assistance to create these files, please let us know by filing an issue with https://github.com/packethost/standards.
+If you feel the repository should be experimental or end of life or that you'll need assistance to update these files, please let us know by filing an issue with https://github.com/packethost/standards.
 
 ## The Uniform Standards Project
 
