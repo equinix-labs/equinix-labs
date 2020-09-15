@@ -16,7 +16,7 @@ Packet maintains a number of public repositories that help customers to run vari
 * Many of our repositories are put online with no formal communication with, or training for, customer success. This leads to a below average support experience when things do go wrong.
 * We spend a huge amount of time supporting users through various channels when with better upfront planning, documentation and testing much of this support work could be eliminated.
 
-To that end, we propose three tiers of repositories: [Private](https://github.com/packethost/standards#private-tier-minimum-requirements), [Experimental](https://github.com/packethost/standards#experimental-tier-minimum-requirements), and [Maintained](https://github.com/packethost/standards#maintained-tier-minimum-requirements).
+To that end, we propose four tiers of repositories: [Private](https://github.com/packethost/standards#private-tier-minimum-requirements), [End of Life](https://github.com/packethost/standards#end-of-life-tier-minimum-requirements), [Experimental](https://github.com/packethost/standards#experimental-tier-minimum-requirements), and [Maintained](https://github.com/packethost/standards#maintained-tier-minimum-requirements).
 
 ### The Goal
 
@@ -36,6 +36,10 @@ Each tier, Private, Experimental, and Maintained has its own list of requirement
 
 These repositories are not public at all, therefore, there are no minimum requirements. If you want to go public with that repository, you might want to think about the next level requirements.
 
+### End of Life Tier
+
+We no longer support nor maintain these projects. Our end of life project requirements are outlined in [the process](#the-process) below.
+
 ### Experimental Tier
 
 Use at your own risk and do not expect thorough support!  Our experimental project requirements are outlined in [the process](#the-process) below.
@@ -46,8 +50,8 @@ We stand behind these repositories and support using them in production! Our mai
 
 ## The Process
 
-1. A repository is reviewed by Packet and filed as Maintained, Experimental, or EndOfLife.
-2. Maintained repositories are moved to <https://github.com/packethost>. Experimental repositories are moved to <https://github.com/packet-labs>. 
-3. An issue is filed on the repository using the [maintained issue template](https://raw.githubusercontent.com/packethost/standards/master/ISSUE_TEMPLATE/maintained-issue.md) or the [Experimental Issue template](https://raw.githubusercontent.com/packethost/standards/master/ISSUE_TEMPLATE/experimental-issue.md) which creates a checklist directly on the repository.
+1. A repository is reviewed by Packet and filed as Maintained, Experimental, EndOfLife or Private.
+2. Maintained repositories are moved to <https://github.com/packethost>. Experimental repositories are moved to <https://github.com/packet-labs>. End of Life repositories may remain where they are archived.
+3. An issue is filed on the repository using the [maintained issue template](https://raw.githubusercontent.com/packethost/standards/master/ISSUE_TEMPLATE/maintained-issue.md) or the [Experimental Issue template](https://raw.githubusercontent.com/packethost/standards/master/ISSUE_TEMPLATE/experimental-issue.md)  or the [End of Life Issue template](https://raw.githubusercontent.com/packethost/standards/master/ISSUE_TEMPLATE/end-of-life-issue.md) which creates a checklist directly on the repository.
 4. Work is completed via pull requests.
 5. You can track the progress with us of the [PacketHost repositories](https://github.com/orgs/packethost/projects/4) and the progress for the [Packet-Labs repositories](https://github.com/orgs/packet-labs/projects/1) via automated kanban.
