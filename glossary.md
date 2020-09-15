@@ -16,9 +16,17 @@ Contributing notes may be included in README.md or in a separate CONTRIBUTING.md
 
 [Developer Certificate of Origin](https://github.com/apps/dco) provides basic accountability for the code being submitted to the project.
 
+## End of Life Badge
+
+![](https://img.shields.io/badge/Stability-EndOfLife-black.svg)
+
+## End of Life Statement
+
+This repository is [End of Life](https://github.com/packethost/standards/blob/master/end-of-life-statement.md)!
+
 ## Experimental Badge
 
-![](https://img.shields.io/badge/stability-experimental-red.svg)
+![](https://img.shields.io/badge/Stability-Experimental-red.svg)
 
 ## Experimental Statement
 
@@ -37,7 +45,7 @@ Every OSS project should include an approved OSS license. Observe instructions i
 
 ## Maintained Badge
 
-![](https://img.shields.io/badge/stability-maintained-green.svg)
+![](https://img.shields.io/badge/Stability-Maintained-green.svg)
 
 ## Maintained Statement
 
