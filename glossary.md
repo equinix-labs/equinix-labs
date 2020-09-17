@@ -22,7 +22,7 @@ Contributing notes may be included in README.md or in a separate CONTRIBUTING.md
 
 ## End of Life Statement
 
-This repository is [End of Life](https://github.com/packethost/standards/blob/master/end-of-life-statement.md)!
+This repository is [End of Life](https://github.com/packethost/standards/blob/master/end-of-life-statement.md) meaning that this software is no longer supported nor maintained by Packet or its community.
 
 ## Experimental Badge
 
@@ -30,7 +30,7 @@ This repository is [End of Life](https://github.com/packethost/standards/blob/ma
 
 ## Experimental Statement
 
-This repository is [Experimental](https://github.com/packethost/standards/blob/master/experimental-statement.md)!
+This repository is [Experimental](https://github.com/packethost/standards/blob/master/experimental-statement.md) meaning that it's based on untested ideas or techniques and not yet established or finalized or involves a radically new and innovative style! This means that support is best effort (at best!) and we strongly encourage you to NOT use this in production.
 
 ## Getting Started Tutorial
 
@@ -49,7 +49,7 @@ Every OSS project should include an approved OSS license. Observe instructions i
 
 ## Maintained Statement
 
-This repository is [Maintained](https://github.com/packethost/standards/blob/master/maintained-statement.md)!
+This repository is [Maintained](https://github.com/packethost/standards/blob/master/maintained-statement.md) meaning that this software is supported by Packet and its community - available to use in production environments.
 
 ## Maintainer
 
