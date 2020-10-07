@@ -80,6 +80,17 @@ Readme files pertain to the contents of a directory or the scope of a repository
 * Support expectations: Is this an experimental or maintained project.  Include our standard definition and terms for the given state.
 * Limitations: Is ARM supported? What Packet features or service flags are required? Are these features available in all regions? The following features are not available in all facilities, for example storage, global ipv4, backend transfer.
 
+## Rebrand: Packet to Equinix Metal
+
+Packet was acquired by Equinix in March. To help make our vision for global, interconnected bare metal a reality, we've rebranded Packet as Equinix Metal™ and introduced new locations and features. Login, sign up, and say hello at metal.equinix.com. Example rebrands:
+
+* Packet --> Equinix Metal
+* support@packethost.com --> support@equinixmetal.com
+* https://slack.packet.com/ --> https://slack.equinixmetal.com/
+* Freenode IRC #packethost --> Freenode IRC #equinixmetal
+* packet.com --> metal.equinix.com
+* https://app.packet.net/ --> https://console.equinix.com/
+
 ## RELEASE.md
 
 Release knowledge is often lost when not recorded properly. A RELEASE.md could be used to record this information - consider automation like [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter). How is the software built for distribution? How many channels, architectures, artifacts are there? How and where are tags applied? Are tags referenced and tracked in multiple places - Git, docs, config files, Docker images? What commands are needed to run the release? What responsibilities do humans have and what responsibilities do robots have? What changelogs or documentation should be updated on release?
