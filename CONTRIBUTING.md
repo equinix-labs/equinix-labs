@@ -2,7 +2,7 @@
   Thx for your interest! We're so glad you're here. 
 
 ### Important Resources
-  - docs: [https://github.com/packethost/standards/wiki](https://github.cohttps://github.com/packethost/standards/wiki)
+  - docs: [https://github.com/packethost/standards/wiki](https://github.com/packethost/standards/wiki)
   - bugs: [https://github.com/packethost/standards/issues](https://github.com/packethost/standards/issues)
 
 ### Code of Conduct
