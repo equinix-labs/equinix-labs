@@ -8,9 +8,9 @@ We believe this repository is End of Life and therefore needs the following file
 
 If you feel the repository should be maintained or experimental or that you'll need assistance to create these files, please let us know by filing an issue with https://github.com/packethost/standards.
 
-Packet maintains a number of public repositories that help customers to run various workloads on Packet. These repositories are in various states of completeness and quality, and being public, developers often find them and start using them. This creates problems:
+Equinix Metal maintains a number of public repositories that help customers to run various workloads on Equinix Metal. These repositories are in various states of completeness and quality, and being public, developers often find them and start using them. This creates problems:
 
-* Developers using low-quality repositories may infer that Packet generally provides a low quality experience.
+* Developers using low-quality repositories may infer that Equinix Metal generally provides a low quality experience.
 * Many of our repositories are put online with no formal communication with, or training for, customer success. This leads to a below average support experience when things do go wrong.
 * We spend a huge amount of time supporting users through various channels when with better upfront planning, documentation and testing much of this support work could be eliminated.
 

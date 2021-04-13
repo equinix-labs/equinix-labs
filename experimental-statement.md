@@ -13,6 +13,6 @@ An experiment is a procedure carried out to support, refute, or validate a hypot
 
 You, my friend, have found an experiment.
 
-There’s a strong sense of open source altruism at Packet. Most of us have grown up in a world transformed by open software and we see the value in transparency and community efforts. We have also built our core platform and business value on the backs of critical open source technologies from Golang and Ruby to Kubernetes and Postgres. 
+There’s a strong sense of open source altruism at Equinix Metal. Most of us have grown up in a world transformed by open software and we see the value in transparency and community efforts. We have also built our core platform and business value on the backs of critical open source technologies from Golang and Ruby to Kubernetes and Postgres. 
 
 Because of our passion for open source, we often develop our software in the open, putting it online long before it's reached stability or the final phase of its journey. And because we'd love to hear from you - receive your collaboration and input on a project, long before it's polished and pristine - we're putting this repository online, with an open source license, and a qualifier, so you know what you're playing with.
