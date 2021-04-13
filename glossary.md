@@ -6,7 +6,7 @@ In software engineering, [CI/CD or CICD](https://en.wikipedia.org/wiki/CI/CD) ge
 
 ## Code of Conduct
 
-This may be included in the body of README or in separate files for other providers of the project type. These are generally sensible. If the same Code exists in another Equinix Metal owned project, it can be assumed to be approved. 
+This may be included in the body of README or in separate files for other providers of the project type. These are generally sensible. If the same Code exists in another Equinix Metal owned project, it can be assumed to be approved.
 
 ## Contributors Guide
 
@@ -18,7 +18,7 @@ Contributing notes may be included in README.md or in a separate CONTRIBUTING.md
 
 ## End of Life Badge
 
-![](https://img.shields.io/badge/Stability-EndOfLife-black.svg)
+[![End of Life](https://img.shields.io/badge/Stability-EndOfLife-black.svg)](https://github.com/packethost/standards/blob/master/end-of-life-statement.md#end-of-life-statements)
 
 ## End of Life Statement
 
@@ -26,7 +26,7 @@ This repository is [End of Life](https://github.com/packethost/standards/blob/ma
 
 ## Experimental Badge
 
-![](https://img.shields.io/badge/Stability-Experimental-red.svg)
+[![Experimental](https://img.shields.io/badge/Stability-Experimental-red.svg)](https://github.com/packethost/standards/blob/master/experimental-statement.md#experimental-statement)
 
 ## Experimental Statement
 
@@ -35,6 +35,7 @@ This repository is [Experimental](https://github.com/packethost/standards/blob/m
 ## Getting Started Tutorial
 
 May be included in the README.md and needs to include:
+
 * Requirements: If a project requires API tokens, link to the token creation instructions. In general, cut out the need for users to seek supplementary information seeking without repeating instructions. Make sure to indicate the widest tested range of versions for required software and libraries.
 * Installation Instructions: Make sure to provide instructions for Mac, Linux, Windows when available. Try to cover both sides in split ecosystems: Python2/Python3, Helm2/Helm3, Bundler/Gem, for example.
 * Usage: Cover the most basic usage and common use-cases. Refer to the documentation for more details. If the project is new and no formal documentation exists, all options should be presented. Once documentation exists, to avoid duplication, replace detailed usage sections with references to the documentation.
@@ -45,7 +46,7 @@ Every OSS project should include an approved OSS license. Observe instructions i
 
 ## Maintained Badge
 
-![](https://img.shields.io/badge/Stability-Maintained-green.svg)
+[![Maintained](https://img.shields.io/badge/Stability-Maintained-green.svg)](https://github.com/packethost/standards/blob/master/maintained-statement.md#maintained-statements)
 
 ## Maintained Statement
 
@@ -86,10 +87,10 @@ Equinix Metal was acquired by Equinix in March. To help make our vision for glob
 
 * Equinix Metal --> Equinix Metal
 * support@packethost.com --> support@equinixmetal.com
-* https://slack.packet.com/ --> https://slack.equinixmetal.com/
+* <https://slack.packet.com/> --> <https://slack.equinixmetal.com/>
 * Freenode IRC #packethost --> Freenode IRC #equinixmetal
 * packet.com --> metal.equinix.com
-* https://app.packet.net/ --> https://console.equinix.com/
+* <https://app.packet.net/> --> <https://console.equinix.com/>
 
 ## RELEASE.md
 
