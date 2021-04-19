@@ -2,15 +2,15 @@ Hello!
 
 We believe this repository is Experimental and therefore needs the following files updated:
 
-* [ ] [The Experimental badge](https://github.com/packethost/standards/blob/master/glossary.md#experimental-badge)
-* [ ] [The Experimental Statement in the README.md](https://github.com/packethost/standards/blob/master/glossary.md#experimental-statement)
-* [ ] [Getting Started Tutorial](https://github.com/packethost/standards/blob/master/glossary.md#getting-started-tutorial)
-* [ ] [README.md](https://github.com/packethost/standards/blob/master/glossary.md#readmemd)
-* [ ] [LICENSE](https://github.com/packethost/standards/blob/master/glossary.md#license)
-* [ ] [CI/CD](https://github.com/packethost/standards/blob/master/glossary.md#cicd)
-* [ ] [OWNERS.md](https://github.com/packethost/standards/blob/master/glossary.md#ownersmd)
-* [ ] [Developer Certificate of Origin](https://github.com/packethost/standards/blob/master/glossary.md#developer-certificate-of-origin)
-* [ ] At least one [maintainer](https://github.com/packethost/standards/blob/master/glossary.md#maintainer)
+* [ ] [The Experimental badge](https://github.com/packethost/standards/blob/main/glossary.md#experimental-badge)
+* [ ] [The Experimental Statement in the README.md](https://github.com/packethost/standards/blob/main/glossary.md#experimental-statement)
+* [ ] [Getting Started Tutorial](https://github.com/packethost/standards/blob/main/glossary.md#getting-started-tutorial)
+* [ ] [README.md](https://github.com/packethost/standards/blob/main/glossary.md#readmemd)
+* [ ] [LICENSE](https://github.com/packethost/standards/blob/main/glossary.md#license)
+* [ ] [CI/CD](https://github.com/packethost/standards/blob/main/glossary.md#cicd)
+* [ ] [OWNERS.md](https://github.com/packethost/standards/blob/main/glossary.md#ownersmd)
+* [ ] [Developer Certificate of Origin](https://github.com/packethost/standards/blob/main/glossary.md#developer-certificate-of-origin)
+* [ ] At least one [maintainer](https://github.com/packethost/standards/blob/main/glossary.md#maintainer)
 
 If you feel the repository should be maintained or end of life or that you'll need assistance to create these files, please let us know by filing an issue with https://github.com/packethost/standards.
 

@@ -1,7 +1,7 @@
 # Experimental Statement
 
 ## Link Sentence
-This repository is [Experimental](https://github.com/packethost/standards/blob/master/experimental-statement.md)!
+This repository is [Experimental](https://github.com/packethost/standards/blob/main/experimental-statement.md)!
 
 ## Short Statement
 This repository is Experimental meaning that it's based on untested ideas or techniques and not yet established or finalized or involves a radically new and innovative style! This means that support is best effort (at best!) and we strongly encourage you to NOT use this in production.

@@ -2,8 +2,8 @@ Hello!
 
 We believe this repository is End of Life and therefore needs the following files updated:
 
-* [ ] [The End of Life badge](https://github.com/packethost/standards/blob/master/glossary.md#experimental-badge)
-* [ ] [The End of Life Statement in the README.md](https://github.com/packethost/standards/blob/master/glossary.md#experimental-statement)
+* [ ] [The End of Life badge](https://github.com/packethost/standards/blob/main/glossary.md#experimental-badge)
+* [ ] [The End of Life Statement in the README.md](https://github.com/packethost/standards/blob/main/glossary.md#experimental-statement)
 * [ ] Archive Status
 
 If you feel the repository should be maintained or experimental or that you'll need assistance to create these files, please let us know by filing an issue with <https://github.com/packethost/standards>.

@@ -6,13 +6,13 @@
   - bugs: [https://github.com/packethost/standards/issues](https://github.com/packethost/standards/issues)
 
 ### Code of Conduct
-Available via [https://github.com/packethost/standards/blob/master/CODE_OF_CONDUCT.md](https://github.com/packethost/standards/blob/master/CODE_OF_CONDUCT.md)
+Available via [https://github.com/packethost/standards/blob/main/CODE_OF_CONDUCT.md](https://github.com/packethost/standards/blob/main/CODE_OF_CONDUCT.md)
 
 ### Testing
 Wait, we're supposed to set up testing?
 
 ### Environment Details
-[https://github.com/packethost/standards/blob/master/MANIFEST.md](https://github.com/packethost/standards/blob/master/MANIFEST.md)
+[https://github.com/packethost/standards/blob/main/MANIFEST.md](https://github.com/packethost/standards/blob/main/MANIFEST.md)
 
 ### How to Submit Change Requests
 Please submit change requests and / or features via [Issues](https://github.com/packethost/standards/issues). There's no guarantee it'll be changed, but you never know until you try. I'll try to add comments as soon as possible, though.
