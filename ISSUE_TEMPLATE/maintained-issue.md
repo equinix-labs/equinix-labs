@@ -3,20 +3,20 @@ Hello!
 We believe this repository is Maintained and therefore needs the following files updated:
 
 * [ ] Flagged Public
-* [ ] [The Maintained badge](https://github.com/packethost/standards/blob/master/glossary.md#maintained-badge)
-* [ ] [The Maintained Statement in the README.md](https://github.com/packethost/standards/blob/master/glossary.md#maintained-statement)
-* [ ] [Getting Started Tutorial](https://github.com/packethost/standards/blob/master/glossary.md#getting-started-tutorial)
-* [ ] [README.md](https://github.com/packethost/standards/blob/master/glossary.md#readmemd)
-* [ ] [LICENSE](https://github.com/packethost/standards/blob/master/glossary.md#license)
-* [ ] [CI/CD](https://github.com/packethost/standards/blob/master/glossary.md#cicd)
-* [ ] [OWNERS.md](https://github.com/packethost/standards/blob/master/glossary.md#ownersmd)
-* [ ] [Developer Certificate of Origin](https://github.com/packethost/standards/blob/master/glossary.md#developer-certificate-of-origin)
-* [ ] At least two [maintainers](https://github.com/packethost/standards/blob/master/glossary.md#maintainer)
-* [ ] [A Manifest File](https://github.com/packethost/standards/blob/master/glossary.md#manifest-file), if relevant
-* [ ] [Code of Conduct](https://github.com/packethost/standards/blob/master/glossary.md#code-of-conduct)
-* [ ] [How to Contribute](https://github.com/packethost/standards/blob/master/glossary.md#contributors-guide)
-* [ ] [SUPPORT.md](https://github.com/packethost/standards/blob/master/glossary.md#supportmd)
-* [ ] [RELEASE.md](https://github.com/packethost/standards/blob/master/glossary.md#releasemd)
+* [ ] [The Maintained badge](https://github.com/packethost/standards/blob/main/glossary.md#maintained-badge)
+* [ ] [The Maintained Statement in the README.md](https://github.com/packethost/standards/blob/main/glossary.md#maintained-statement)
+* [ ] [Getting Started Tutorial](https://github.com/packethost/standards/blob/main/glossary.md#getting-started-tutorial)
+* [ ] [README.md](https://github.com/packethost/standards/blob/main/glossary.md#readmemd)
+* [ ] [LICENSE](https://github.com/packethost/standards/blob/main/glossary.md#license)
+* [ ] [CI/CD](https://github.com/packethost/standards/blob/main/glossary.md#cicd)
+* [ ] [OWNERS.md](https://github.com/packethost/standards/blob/main/glossary.md#ownersmd)
+* [ ] [Developer Certificate of Origin](https://github.com/packethost/standards/blob/main/glossary.md#developer-certificate-of-origin)
+* [ ] At least two [maintainers](https://github.com/packethost/standards/blob/main/glossary.md#maintainer)
+* [ ] [A Manifest File](https://github.com/packethost/standards/blob/main/glossary.md#manifest-file), if relevant
+* [ ] [Code of Conduct](https://github.com/packethost/standards/blob/main/glossary.md#code-of-conduct)
+* [ ] [How to Contribute](https://github.com/packethost/standards/blob/main/glossary.md#contributors-guide)
+* [ ] [SUPPORT.md](https://github.com/packethost/standards/blob/main/glossary.md#supportmd)
+* [ ] [RELEASE.md](https://github.com/packethost/standards/blob/main/glossary.md#releasemd)
 
 If you feel the repository should be experimental or end of life or that you'll need assistance to update these files, please let us know by filing an issue with <https://github.com/packethost/standards>.
 

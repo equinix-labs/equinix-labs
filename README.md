@@ -2,11 +2,11 @@
 
 ![](https://img.shields.io/badge/stability-maintained-green.svg) [![Slack](https://slack.equinixmetal.com/badge.svg)](https://slack.equinixmetal.com/) [![Twitter Follow](https://img.shields.io/twitter/follow/equinixmetal.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=equinixmetal)
 
-This repository is [Maintained](https://github.com/packethost/standards/blob/master/maintained-statement.md)!
+This repository is [Maintained](https://github.com/packethost/standards/blob/main/maintained-statement.md)!
 
 If you require support, please email [support@equinixmetal.com](mailto:support@equinixmetal.com), visit the Equinix Metal IRC channel (#equinixmetal on freenode), subscribe to the [Equinix Metal Community Slack channel](https://slack.equinixmetal.com/) or post an issue within this repository.
 
-[Contributions](https://github.com/packethost/standards/blob/master/CONTRIBUTING.md) are welcome to help extend this work!
+[Contributions](https://github.com/packethost/standards/blob/main/CONTRIBUTING.md) are welcome to help extend this work!
 
 ## About Uniform Standards
 
@@ -52,6 +52,6 @@ We stand behind these repositories and support using them in production! Our mai
 
 1. A repository is reviewed by Equinix Metal and filed as Maintained, Experimental, EndOfLife or Private.
 2. Maintained repositories are moved to <https://github.com/packethost>. Experimental repositories are moved to <https://github.com/packet-labs>. End of Life repositories may remain where they are archived.
-3. An issue is filed on the repository using the [maintained issue template](https://raw.githubusercontent.com/packethost/standards/master/ISSUE_TEMPLATE/maintained-issue.md) or the [Experimental Issue template](https://raw.githubusercontent.com/packethost/standards/master/ISSUE_TEMPLATE/experimental-issue.md)  or the [End of Life Issue template](https://raw.githubusercontent.com/packethost/standards/master/ISSUE_TEMPLATE/end-of-life-issue.md) which creates a checklist directly on the repository.
+3. An issue is filed on the repository using the [maintained issue template](https://raw.githubusercontent.com/packethost/standards/main/ISSUE_TEMPLATE/maintained-issue.md) or the [Experimental Issue template](https://raw.githubusercontent.com/packethost/standards/main/ISSUE_TEMPLATE/experimental-issue.md)  or the [End of Life Issue template](https://raw.githubusercontent.com/packethost/standards/main/ISSUE_TEMPLATE/end-of-life-issue.md) which creates a checklist directly on the repository.
 4. Work is completed via pull requests.
 5. You can track the progress with us of the [Equinix Metal repositories](https://github.com/orgs/packethost/projects/4) and the progress for the [Packet-Labs repositories](https://github.com/orgs/packet-labs/projects/1) via automated kanban.

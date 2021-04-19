@@ -18,19 +18,19 @@ Contributing notes may be included in README.md or in a separate CONTRIBUTING.md
 
 ## End of Life Badge
 
-[![End of Life](https://img.shields.io/badge/Stability-EndOfLife-black.svg)](https://github.com/packethost/standards/blob/master/end-of-life-statement.md#end-of-life-statements)
+[![End of Life](https://img.shields.io/badge/Stability-EndOfLife-black.svg)](https://github.com/packethost/standards/blob/main/end-of-life-statement.md#end-of-life-statements)
 
 ## End of Life Statement
 
-This repository is [End of Life](https://github.com/packethost/standards/blob/master/end-of-life-statement.md) meaning that this software is no longer supported nor maintained by Equinix Metal or its community.
+This repository is [End of Life](https://github.com/packethost/standards/blob/main/end-of-life-statement.md) meaning that this software is no longer supported nor maintained by Equinix Metal or its community.
 
 ## Experimental Badge
 
-[![Experimental](https://img.shields.io/badge/Stability-Experimental-red.svg)](https://github.com/packethost/standards/blob/master/experimental-statement.md#experimental-statement)
+[![Experimental](https://img.shields.io/badge/Stability-Experimental-red.svg)](https://github.com/packethost/standards/blob/main/experimental-statement.md#experimental-statement)
 
 ## Experimental Statement
 
-This repository is [Experimental](https://github.com/packethost/standards/blob/master/experimental-statement.md) meaning that it's based on untested ideas or techniques and not yet established or finalized or involves a radically new and innovative style! This means that support is best effort (at best!) and we strongly encourage you to NOT use this in production.
+This repository is [Experimental](https://github.com/packethost/standards/blob/main/experimental-statement.md) meaning that it's based on untested ideas or techniques and not yet established or finalized or involves a radically new and innovative style! This means that support is best effort (at best!) and we strongly encourage you to NOT use this in production.
 
 ## Getting Started Tutorial
 
@@ -46,11 +46,11 @@ Every OSS project should include an approved OSS license. Observe instructions i
 
 ## Maintained Badge
 
-[![Maintained](https://img.shields.io/badge/Stability-Maintained-green.svg)](https://github.com/packethost/standards/blob/master/maintained-statement.md#maintained-statements)
+[![Maintained](https://img.shields.io/badge/Stability-Maintained-green.svg)](https://github.com/packethost/standards/blob/main/maintained-statement.md#maintained-statements)
 
 ## Maintained Statement
 
-This repository is [Maintained](https://github.com/packethost/standards/blob/master/maintained-statement.md) meaning that this software is supported by Equinix Metal and its community - available to use in production environments.
+This repository is [Maintained](https://github.com/packethost/standards/blob/main/maintained-statement.md) meaning that this software is supported by Equinix Metal and its community - available to use in production environments.
 
 ## Maintainer
 
