@@ -2,7 +2,6 @@
   Thx for your interest! We're so glad you're here. 
 
 ### Important Resources
-  - docs: [https://github.com/equinix-labs/equinix-labs/wiki](https://github.com/equinix-labs/equinix-labs/wiki)
   - bugs: [https://github.com/equinix-labs/equinix-labs/issues](https://github.com/equinix-labs/equinix-labs/issues)
 
 ### Code of Conduct
