@@ -18,19 +18,19 @@ Contributing notes may be included in README.md or in a separate CONTRIBUTING.md
 
 ## End of Life Badge
 
-[![End of Life](https://img.shields.io/badge/Stability-EndOfLife-black.svg)](https://github.com/packethost/standards/blob/main/end-of-life-statement.md#end-of-life-statements)
+[![End of Life](https://img.shields.io/badge/Stability-EndOfLife-black.svg)](end-of-life-statement.md#end-of-life-statements)
 
 ## End of Life Statement
 
-This repository is [End of Life](https://github.com/packethost/standards/blob/main/end-of-life-statement.md) meaning that this software is no longer supported nor maintained by Equinix Metal or its community.
+This repository is [End of Life](end-of-life-statement.md) meaning that this software is no longer supported nor maintained by Equinix Metal or its community.
 
 ## Experimental Badge
 
-[![Experimental](https://img.shields.io/badge/Stability-Experimental-red.svg)](https://github.com/packethost/standards/blob/main/experimental-statement.md#experimental-statement)
+[![Experimental](https://img.shields.io/badge/Stability-Experimental-red.svg)](experimental-statement.md#experimental-statement)
 
 ## Experimental Statement
 
-This repository is [Experimental](https://github.com/packethost/standards/blob/main/experimental-statement.md) meaning that it's based on untested ideas or techniques and not yet established or finalized or involves a radically new and innovative style! This means that support is best effort (at best!) and we strongly encourage you to NOT use this in production.
+This repository is [Experimental](experimental-statement.md) meaning that it's based on untested ideas or techniques and not yet established or finalized or involves a radically new and innovative style! This means that support is best effort (at best!) and we strongly encourage you to NOT use this in production.
 
 ## Getting Started Tutorial
 
@@ -46,11 +46,11 @@ Every OSS project should include an approved OSS license. Observe instructions i
 
 ## Maintained Badge
 
-[![Maintained](https://img.shields.io/badge/Stability-Maintained-green.svg)](https://github.com/packethost/standards/blob/main/maintained-statement.md#maintained-statements)
+[![Maintained](https://img.shields.io/badge/Stability-Maintained-green.svg)](maintained-statement.md#maintained-statements)
 
 ## Maintained Statement
 
-This repository is [Maintained](https://github.com/packethost/standards/blob/main/maintained-statement.md) meaning that this software is supported by Equinix Metal and its community - available to use in production environments.
+This repository is [Maintained](maintained-statement.md) meaning that this software is supported by Equinix Metal and its community - available to use in production environments.
 
 ## Maintainer
 
@@ -58,7 +58,7 @@ An organization owner can promote any member of the organization to team [mainta
 
 ## Manifest File
 
-Used most commonly in Java, the manifest is a special file that can contain information about the files packaged in a JAR file. By tailoring this "meta" information that the manifest contains, you enable the manifest file to serve a variety of purposes. Other programming languages have similar manifest files, but even if you're project is a markdown or documentation project, you can use the manifest file to store the appropriate set of categories, keywords, and tags. Consider including “packet”, “bare metal”, “on-premise”, “hybrid-cloud”, and “cloud”. Build from there. Project descriptions and overviews should be taken advantage of as well. Logos are a common feature, make sure our projects are including branding approved logos made to fit the project’s visual requirements and theme.
+While the specific filename varies from programming environemnt or packaging tool, manifest files contain "meta" information about a project. Take advantage of manifest files to store the appropriate set of categories, keywords, and tags for a project. Project descriptions and overviews should be taken advantage of as well. Logos are a common feature of manifests, projects should use approved logos and branding to fit the project and organization's visual requirements and theme.
 
 ## Owner
 
@@ -80,17 +80,6 @@ Readme files pertain to the contents of a directory or the scope of a repository
 * Usage: Cover the most basic usage and common use-cases. Refer to the documentation for more details. If the project is new and no formal documentation exists, all options should be presented. Once documentation exists, to avoid duplication, replace detailed usage sections with references to the documentation.
 * Support expectations: Is this an experimental or maintained project.  Include our standard definition and terms for the given state.
 * Limitations: Is ARM supported? What Equinix Metal features or service flags are required? Are these features available in all regions? The following features are not available in all facilities, for example storage, global ipv4, backend transfer.
-
-## Rebrand: Equinix Metal to Equinix Metal
-
-Equinix Metal was acquired by Equinix in March. To help make our vision for global, interconnected bare metal a reality, we've rebranded Equinix Metal as Equinix Metal™ and introduced new locations and features. Login, sign up, and say hello at metal.equinix.com. Example rebrands:
-
-* Equinix Metal --> Equinix Metal
-* support@packethost.com --> support@equinixmetal.com
-* <https://slack.packet.com/> --> <https://slack.equinixmetal.com/>
-* Freenode IRC #packethost --> Freenode IRC #equinixmetal
-* packet.com --> metal.equinix.com
-* <https://app.packet.net/> --> <https://console.equinix.com/>
 
 ## RELEASE.md
 
