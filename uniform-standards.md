@@ -50,8 +50,7 @@ We stand behind these repositories and support using them in production! Our mai
 
 ## The Process
 
-1. A repository is reviewed by Equinix Metal and filed as Maintained, Experimental, EndOfLife or Private.
-2. Maintained repositories are moved to <https://github.com/packethost>. Experimental repositories are moved to <https://github.com/packet-labs>. End of Life repositories may remain where they are archived.
-3. An issue is filed on the repository using the [maintained issue template](https://raw.githubusercontent.com/packethost/standards/main/ISSUE_TEMPLATE/maintained-issue.md) or the [Experimental Issue template](https://raw.githubusercontent.com/packethost/standards/main/ISSUE_TEMPLATE/experimental-issue.md)  or the [End of Life Issue template](https://raw.githubusercontent.com/packethost/standards/main/ISSUE_TEMPLATE/end-of-life-issue.md) which creates a checklist directly on the repository.
+1. A repository is reviewed by Equinix Metal and filed as Maintained, Experimental, or EndOfLife. _Private projects are exempt from this process._
+2. Maintained repositories may be moved to <https://github.com/equinix>. Experimental repositories may be moved to <https://github.com/equinix-labs>. End of Life repositories may remain where they are archived.
+3. An issue is filed on the repository using the [maintained issue template](https://raw.githubusercontent.com/equinix-labs/equinix-labs/main/ISSUE_TEMPLATE/maintained-issue.md) or the [Experimental Issue template](https://raw.githubusercontent.com/equinix-labs/equinix-labs/main/ISSUE_TEMPLATE/experimental-issue.md)  or the [End of Life Issue template](https://raw.githubusercontent.com/equinix-labs/equinix-labs/main/ISSUE_TEMPLATE/end-of-life-issue.md) which creates a checklist directly on the repository.
 4. Work is completed via pull requests.
-5. You can track the progress with us of the [Equinix Metal repositories](https://github.com/orgs/packethost/projects/4) and the progress for the [Packet-Labs repositories](https://github.com/orgs/packet-labs/projects/1) via automated kanban.
