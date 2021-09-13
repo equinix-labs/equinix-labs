@@ -2,7 +2,7 @@
 
 ## Link Sentence
 
-This repository is [Maintained](https://github.com/packethost/standards/blob/main/maintained-statement.md)!
+This repository is [Maintained](https://github.com/equinix-labs/equinix-labs/blob/main/maintained-statement.md)!
 
 ## Short Statement
 

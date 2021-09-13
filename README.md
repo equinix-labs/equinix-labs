@@ -2,11 +2,11 @@
 
 ![](https://img.shields.io/badge/stability-maintained-green.svg) [![Slack](https://slack.equinixmetal.com/badge.svg)](https://slack.equinixmetal.com/) [![Twitter Follow](https://img.shields.io/twitter/follow/equinixmetal.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=equinixmetal)
 
-This repository is [Maintained](https://github.com/packethost/standards/blob/main/maintained-statement.md)!
+This repository is [Maintained](https://github.com/equinix-labs/equinix-labs/blob/main/maintained-statement.md)!
 
 If you require support, please email [support@equinixmetal.com](mailto:support@equinixmetal.com), visit the Equinix Metal IRC channel (#equinixmetal on freenode), subscribe to the [Equinix Metal Community Slack channel](https://slack.equinixmetal.com/) or post an issue within this repository.
 
-[Contributions](https://github.com/packethost/standards/blob/main/CONTRIBUTING.md) are welcome to help extend this work!
+[Contributions](https://github.com/equinix-labs/equinix-labs/blob/main/CONTRIBUTING.md) are welcome to help extend this work!
 
 ## About Uniform Standards
 
@@ -16,7 +16,7 @@ Equinix Metal maintains a number of public repositories that help customers to r
 * Many of our repositories are put online with no formal communication with, or training for, customer success. This leads to a below average support experience when things do go wrong.
 * We spend a huge amount of time supporting users through various channels when with better upfront planning, documentation and testing much of this support work could be eliminated.
 
-To that end, we propose four tiers of repositories: [Private](https://github.com/packethost/standards#private-tier-minimum-requirements), [End of Life](https://github.com/packethost/standards#end-of-life-tier-minimum-requirements), [Experimental](https://github.com/packethost/standards#experimental-tier-minimum-requirements), and [Maintained](https://github.com/packethost/standards#maintained-tier-minimum-requirements).
+To that end, we propose four tiers of repositories: [Private](https://github.com/equinix-labs/equinix-labs#private-tier-minimum-requirements), [End of Life](https://github.com/equinix-labs/equinix-labs#end-of-life-tier-minimum-requirements), [Experimental](https://github.com/equinix-labs/equinix-labs#experimental-tier-minimum-requirements), and [Maintained](https://github.com/equinix-labs/equinix-labs#maintained-tier-minimum-requirements).
 
 ### The Goal
 
