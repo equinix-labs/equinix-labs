@@ -4,7 +4,7 @@
 
 This repository is [Maintained](https://github.com/equinix-labs/equinix-labs/blob/main/maintained-statement.md)!
 
-If you require support, please email [support@equinixmetal.com](mailto:support@equinixmetal.com), visit the Equinix Metal IRC channel (#equinixmetal on freenode), subscribe to the [Equinix Metal Community Slack channel](https://slack.equinixmetal.com/) or post an issue within this repository.
+If you require support, please email [support@equinixmetal.com](mailto:support@equinixmetal.com), subscribe to the [Equinix Metal Community Slack channel](https://slack.equinixmetal.com/) or post an issue within this repository.
 
 [Contributions](https://github.com/equinix-labs/equinix-labs/blob/main/CONTRIBUTING.md) are welcome to help extend this work!
 
@@ -16,7 +16,7 @@ Equinix Metal maintains a number of public repositories that help customers to r
 * Many of our repositories are put online with no formal communication with, or training for, customer success. This leads to a below average support experience when things do go wrong.
 * We spend a huge amount of time supporting users through various channels when with better upfront planning, documentation and testing much of this support work could be eliminated.
 
-To that end, we propose four tiers of repositories: [Private](https://github.com/equinix-labs/equinix-labs#private-tier-minimum-requirements), [End of Life](https://github.com/equinix-labs/equinix-labs#end-of-life-tier-minimum-requirements), [Experimental](https://github.com/equinix-labs/equinix-labs#experimental-tier-minimum-requirements), and [Maintained](https://github.com/equinix-labs/equinix-labs#maintained-tier-minimum-requirements).
+To that end, we propose four tiers of repositories: [Private](#private-tier-minimum-requirements), [End of Life](#end-of-life-tier-minimum-requirements), [Experimental](#experimental-tier-minimum-requirements), and [Maintained](#maintained-tier-minimum-requirements).
 
 ### The Goal
 
@@ -52,5 +52,5 @@ We stand behind these repositories and support using them in production! Our mai
 
 1. A repository is reviewed by Equinix Metal and filed as Maintained, Experimental, or EndOfLife. _Private projects are exempt from this process._
 2. Maintained repositories may be moved to <https://github.com/equinix>. Experimental repositories may be moved to <https://github.com/equinix-labs>. End of Life repositories may remain where they are archived.
-3. An issue is filed on the repository using the [maintained issue template](https://raw.githubusercontent.com/equinix-labs/equinix-labs/main/ISSUE_TEMPLATE/maintained-issue.md) or the [Experimental Issue template](https://raw.githubusercontent.com/equinix-labs/equinix-labs/main/ISSUE_TEMPLATE/experimental-issue.md)  or the [End of Life Issue template](https://raw.githubusercontent.com/equinix-labs/equinix-labs/main/ISSUE_TEMPLATE/end-of-life-issue.md) which creates a checklist directly on the repository.
+3. An issue is filed on the repository using the [maintained issue template](ISSUE_TEMPLATE/maintained-issue.md) or the [Experimental Issue template](ISSUE_TEMPLATE/experimental-issue.md)  or the [End of Life Issue template](ISSUE_TEMPLATE/end-of-life-issue.md) which creates a checklist directly on the repository.
 4. Work is completed via pull requests.
