@@ -11,11 +11,6 @@ timely manner, see [SUPPORT.md] for details.
 
 See the [glossary] for more details about this file.
 
-## Maintainers
-
-* @dailyalice
-* @displague
-
 [Equinix Metal]: https://metal.equinix.com
 [SUPPORT.md]: SUPPORT.md
 [glossary]: glossary.md#ownersmd
