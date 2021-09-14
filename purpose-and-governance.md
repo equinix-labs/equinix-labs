@@ -52,15 +52,15 @@ Contributors
 ### Maintenance
 
 * Maintenance of individual repos must be undertaken by the repo owner.
-* Equinix Labs Administrator will meet from time to time to agree changes to the management of the Org and its repos, as well as determining whether any repos need remedial work. A chair of the group may be nominated to ensure continuity of process. 
-* A repo containing useful templates, information and a code of conduct will be jointly owned and maintained by the ELAG.
+* Equinix Labs Administrator will meet from time to time to agree changes to the management of the Org and its repos, as well as determining whether any repos need remedial work. A chair of the group may be nominated to ensure continuity of process.
+* A repo containing useful templates, information and a code of conduct will be jointly owned and maintained by the Administrators.
 
 ### Support
-* The repo owner takes responsibility for indicating how users should use the repo and how they will support the repo through inclusion of a set of mandatory files, for example: 
-  * README.md
-  * OWNERS.md
-  * LICENSE.md
-  * CODEOWNERS.md
-  * CONTRIBUTING.md
-  * SUPPORT.md
 
+* The repo owner takes responsibility for indicating how users should use the repo and how they will support the repo through inclusion of a set of mandatory files, for example:
+  * [README.md](glossary.md#README.md)
+  * [OWNERS.md](glossary.md#OWNERS.md)
+  * [LICENSE](glossary.md#LICENSE)
+  * [CODEOWNERS](glossary.md#CODEOWNERS)
+  * [CONTRIBUTING.md](glossary.md#CONTRIBUTING.md)
+  * [SUPPORT.md](glossary.md#SUPPORT.md)

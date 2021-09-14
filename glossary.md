@@ -58,11 +58,13 @@ An organization owner can promote any member of the organization to team [mainta
 
 ## Manifest File
 
-While the specific filename varies from programming environemnt or packaging tool, manifest files contain "meta" information about a project. Take advantage of manifest files to store the appropriate set of categories, keywords, and tags for a project. Project descriptions and overviews should be taken advantage of as well. Logos are a common feature of manifests, projects should use approved logos and branding to fit the project and organization's visual requirements and theme.
+While the specific filename varies from programming environment or packaging tool, manifest files contain "meta" information about a project. Take advantage of manifest files to store the appropriate set of categories, keywords, and tags for a project. Project descriptions and overviews should be taken advantage of as well. Logos are a common feature of manifests, projects should use approved logos and branding to fit the project and organization's visual requirements and theme.
 
-## Owner
+## CODEOWNERS
 
-An repository owner is the last line of defense if no maintainer has responded to an issue or pull request after a certain amount of time. This person follows up with the relevant maintainers of a repository to move forward on a feature or bug.  
+Repository owners are the last line of defense when no other maintainers have responded to an issue or pull request after a certain amount of time. These people follow up with the relevant maintainers of a repository to move forward on a feature or bug.
+
+GitHub offers a filesystem tiered format for defining the owners of specific folders and files as well as generic catch-all owners. Find out more at [About Code Owners](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners).
 
 ## OWNERS.md
 
