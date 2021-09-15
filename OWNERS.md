@@ -1,28 +1,17 @@
 # Owners
 
-This project is governed by [Equinix Metal] and benefits from a community of users that
-collaborate and contribute to its use in Go powered projects, such as the [Equinix Metal
-Terraform provider], [Docker machine driver], Kubernetes drivers for [CSI] and [CCM],
-the [Equinix Metal CLI], and others.
+_The following statement applies to this file and to OSS projects referring to this file,
+typically based in the Equinix, Equinix-Labs GitHub organizations._
 
-Members of the Equinix Metal Github organization will strive to triage issues in a
+This project is governed by [Equinix Metal] and benefits from a community of users that
+collaborate and contribute to its use in various projects.
+
+Members of the aformentioned Github organizations will strive to triage issues in a
 timely manner, see [SUPPORT.md] for details.
 
-See the [packethost/standards glossary] for more details about this file.
-
-## Maintainers
-
-*       @dailyalice
-*       @displague
-*       @rainleander
+See the [glossary] for more details about this file.
 
 [Equinix Metal]: https://metal.equinix.com
-[Equinix Metal Terraform provider]: https://github.com/packethost/terraform-provider-packet
-[Docker machine driver]: https://github.com/packethost/docker-machine-driver-packet
-[CSI]: https://github.com/packethost/csi-packet
-[CCM]: https://github.com/packethost/packet-ccm
-[Equinix Metal CLI]: https://github.com/packethost/packet-cli
 [SUPPORT.md]: SUPPORT.md
-[packethost/standards
-glossary]: https://github.com/packethost/standards/blob/main/glossary.md#ownersmd
+[glossary]: glossary.md#ownersmd
 [CODEOWNERS]: CODEOWNERS

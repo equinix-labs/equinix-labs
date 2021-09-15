@@ -3,22 +3,22 @@ Hello!
 We believe this repository is Maintained and therefore needs the following files updated:
 
 * [ ] Flagged Public
-* [ ] [The Maintained badge](https://github.com/packethost/standards/blob/main/glossary.md#maintained-badge)
-* [ ] [The Maintained Statement in the README.md](https://github.com/packethost/standards/blob/main/glossary.md#maintained-statement)
-* [ ] [Getting Started Tutorial](https://github.com/packethost/standards/blob/main/glossary.md#getting-started-tutorial)
-* [ ] [README.md](https://github.com/packethost/standards/blob/main/glossary.md#readmemd)
-* [ ] [LICENSE](https://github.com/packethost/standards/blob/main/glossary.md#license)
-* [ ] [CI/CD](https://github.com/packethost/standards/blob/main/glossary.md#cicd)
-* [ ] [OWNERS.md](https://github.com/packethost/standards/blob/main/glossary.md#ownersmd)
-* [ ] [Developer Certificate of Origin](https://github.com/packethost/standards/blob/main/glossary.md#developer-certificate-of-origin)
-* [ ] At least two [maintainers](https://github.com/packethost/standards/blob/main/glossary.md#maintainer)
-* [ ] [A Manifest File](https://github.com/packethost/standards/blob/main/glossary.md#manifest-file), if relevant
-* [ ] [Code of Conduct](https://github.com/packethost/standards/blob/main/glossary.md#code-of-conduct)
-* [ ] [How to Contribute](https://github.com/packethost/standards/blob/main/glossary.md#contributors-guide)
-* [ ] [SUPPORT.md](https://github.com/packethost/standards/blob/main/glossary.md#supportmd)
-* [ ] [RELEASE.md](https://github.com/packethost/standards/blob/main/glossary.md#releasemd)
+* [ ] [The Maintained badge](https://github.com/equinix-labs/equinix-labs/blob/main/glossary.md#maintained-badge)
+* [ ] [The Maintained Statement in the README.md](https://github.com/equinix-labs/equinix-labs/blob/main/glossary.md#maintained-statement)
+* [ ] [Getting Started Tutorial](https://github.com/equinix-labs/equinix-labs/blob/main/glossary.md#getting-started-tutorial)
+* [ ] [README.md](https://github.com/equinix-labs/equinix-labs/blob/main/glossary.md#readmemd)
+* [ ] [LICENSE](https://github.com/equinix-labs/equinix-labs/blob/main/glossary.md#license)
+* [ ] [CI/CD](https://github.com/equinix-labs/equinix-labs/blob/main/glossary.md#cicd)
+* [ ] [OWNERS.md](https://github.com/equinix-labs/equinix-labs/blob/main/glossary.md#ownersmd)
+* [ ] [Developer Certificate of Origin](https://github.com/equinix-labs/equinix-labs/blob/main/glossary.md#developer-certificate-of-origin)
+* [ ] At least two [maintainers](https://github.com/equinix-labs/equinix-labs/blob/main/glossary.md#maintainer)
+* [ ] [A Manifest File](https://github.com/equinix-labs/equinix-labs/blob/main/glossary.md#manifest-file), if relevant
+* [ ] [Code of Conduct](https://github.com/equinix-labs/equinix-labs/blob/main/glossary.md#code-of-conduct)
+* [ ] [How to Contribute](https://github.com/equinix-labs/equinix-labs/blob/main/glossary.md#contributors-guide)
+* [ ] [SUPPORT.md](https://github.com/equinix-labs/equinix-labs/blob/main/glossary.md#supportmd)
+* [ ] [RELEASE.md](https://github.com/equinix-labs/equinix-labs/blob/main/glossary.md#releasemd)
 
-If you feel the repository should be experimental or end of life or that you'll need assistance to update these files, please let us know by filing an issue with <https://github.com/packethost/standards>.
+If you feel the repository should be experimental or end of life or that you'll need assistance to update these files, please let us know by filing an issue with <https://github.com/equinix-labs/equinix-labs>.
 
 ## The Uniform Standards Project
 
@@ -28,9 +28,9 @@ Equinix Metal maintains a number of public repositories that help customers to r
 * Many of our repositories are put online with no formal communication with, or training for, customer success. This leads to a below average support experience when things do go wrong.
 * We spend a huge amount of time supporting users through various channels when with better upfront planning, documentation and testing much of this support work could be eliminated.
 
-To that end, we propose three tiers of repositories: [Private](https://github.com/packethost/standards#private-tier-minimum-requirements), [Experimental](https://github.com/packethost/standards#experimental-tier-minimum-requirements), and [Maintained](https://github.com/packethost/standards#maintained-tier-minimum-requirements).
+To that end, we propose three tiers of repositories: [Private](https://github.com/equinix-labs/equinix-labs#private-tier-minimum-requirements), [Experimental](https://github.com/equinix-labs/equinix-labs#experimental-tier-minimum-requirements), and [Maintained](https://github.com/equinix-labs/equinix-labs#maintained-tier-minimum-requirements).
 
-As a resource and example of a maintained repository, we've created <https://github.com/packethost/standards>. This is also where you can file any requests for assistance or modification of scope.
+As a resource and example of a maintained repository, we've created <https://github.com/equinix-labs/equinix-labs>. This is also where you can file any requests for assistance or modification of scope.
 
 ### The Goal
 
