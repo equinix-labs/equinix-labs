@@ -10,7 +10,7 @@
 
 ### Why you might use it
 (This is not an exhaustive list.)
-* To share code between Equinic developer and Equinix customers.
+* To share code between Equinix developer and Equinix customers.
 * To share code between Equinix developers.
 * To host code that is provided alongside guides, workshops etc.
 * To incubate things that are somewhat experimental.
