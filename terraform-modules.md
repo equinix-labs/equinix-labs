@@ -43,6 +43,7 @@ or closely following the format of this project.
   * Use “terraform fmt” in your root and submodules to keep your project clean
   * GitHub actions should be preconfigured to verify that your PRs contain valid Terraform
   * In your README.md and examples, avoid using any credentials that look like real credentials.  Avoid IP addresses that are real public IP addresses. These credentials will be flagged and reviewed by the security team and will waste the time of everyone involved (I am writing this after receiving a phone call about a flagged phony credential :-) ).
+  * When working on changes, Branch Protection may be enabled which will prevent pushing directly to the `main` branch. Use branches and open PRs against those branches. With the approval of any other member of the "equinix-labs/terraform" team, your PR may be merged. It is also possible to disable branch protection.
 
 6. When your code has reached any level of stability (“it does what it says it does”), tag it.
   * Use the “Tags” tab, then “Releases”
