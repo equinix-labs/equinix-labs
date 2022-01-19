@@ -7,11 +7,9 @@ This project is governed by [Equinix Metal] and benefits from a community of use
 collaborate and contribute to its use in various projects.
 
 Members of the aformentioned Github organizations will strive to triage issues in a
-timely manner, see [SUPPORT.md] for details.
+timely manner.
 
 See the [glossary] for more details about this file.
 
 [Equinix Metal]: https://metal.equinix.com
-[SUPPORT.md]: SUPPORT.md
-[glossary]: glossary.md#ownersmd
-[CODEOWNERS]: CODEOWNERS
+[glossary]: https://github.com/equinix-labs/equinix-labs/blob/main/glossary.md#ownersmd
