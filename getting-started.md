@@ -11,6 +11,8 @@ In the `equinix-labs` repo we have a number of templates and resources that you 
 
 [Experimental](https://github.com/equinix-labs/equinix-labs/blob/main/ISSUE_TEMPLATE/experimental-issue.md) 
 
+[Deprecated](https://github.com/equinix-labs/equinix-labs/blob/main/ISSUE_TEMPLATE/deprecated-issue.md)
+
 [Maintained](https://github.com/equinix-labs/equinix-labs/blob/main/ISSUE_TEMPLATE/maintained-issue.md)
 
 [End of Life](https://github.com/equinix-labs/equinix-labs/blob/main/ISSUE_TEMPLATE/end-of-life-issue.md)
