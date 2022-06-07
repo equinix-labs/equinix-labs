@@ -24,6 +24,14 @@ Contributing notes may be included in README.md or in a separate CONTRIBUTING.md
 
 This repository is [End of Life](end-of-life-statement.md) meaning that this software is no longer supported nor maintained by Equinix Metal or its community.
 
+## Deprecated Badge
+
+[![Deprecated](https://img.shields.io/badge/Stability-Deprecated-black.svg)](deprecated-statement.md#deprecated-statements)
+
+## Deprecated Statement
+
+This repository is [Deprecated](deprecated-statement.md) meaning that this software is not recommended, improved, by Equinix Metal or its community. Maintaince will slow until the project reaches End of Life.
+
 ## Experimental Badge
 
 [![Experimental](https://img.shields.io/badge/Stability-Experimental-red.svg)](experimental-statement.md#experimental-statement)
