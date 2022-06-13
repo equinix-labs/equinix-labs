@@ -76,7 +76,7 @@ Indicate any new features between tags and use the keepachangelog.com format wit
     * https://github.com/orgs/equinix-labs/people
   * If the organization is not “equinix-labs”, “equinix”, etc, you may need to authorize the org first: https://registry.terraform.io/publish/provider
 2. Review the guidelines offered above (Steps 5-7)
-3. Join the Terraform team: https://github.com/orgs/equinix-labs/teams/terraform
+3. Join the Terraform team: [https://github.com/orgs/equinix-labs/teams/terraform/members](https://github.com/orgs/equinix-labs/teams/terraform/members)
   * Let an existing member of the team know that you’ve requested access so that they can approve your request.
 4. Review and Merge PRs
 
