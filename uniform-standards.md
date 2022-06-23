@@ -59,7 +59,8 @@ We stand behind these repositories and support using them in production! Our mai
 
 ## The Process
 
-1. A repository is reviewed by Equinix Metal and filed as Maintained, Experimental, or EndOfLife. _Private projects are exempt from this process._
-2. Maintained repositories may be moved to <https://github.com/equinix>. Experimental repositories may be moved to <https://github.com/equinix-labs>. End of Life repositories may remain where they are archived.
-3. An issue is filed on the repository using the issue template which creates a checklist directly on the respository (see [ISSUE_TEMPLATE/](ISSUE_TEMPLATE/)).
+1. A repository is reviewed by Equinix Metal and filed as Maintained, Experimental, Deprecated, or EndOfLife. _Private projects are exempt from this process._
+2. Maintained repositories may be moved to <https://github.com/equinix>. Experimental repositories may be moved to <https://github.com/equinix-labs>. Deprecated repositories may be transitioned to End of Life.
+End of Life repositories may remain where they are or archived.
+3. An issue is filed on the repository using the issue template which creates a checklist directly on the repository (see [ISSUE_TEMPLATE/](ISSUE_TEMPLATE/)).
 4. Work is completed via pull requests.
