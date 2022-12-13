@@ -39,7 +39,7 @@ or closely following the format of this project.
 
 5. Develop your module
   * Look for “template” within the project and replace it with the appropriate repo name or advised content.
-  * Keep the module standards in mind (https://www.terraform.io/docs/language/modules/)
+  * Follow the standards provided in the [Terraform Module Development Standards] guide.
   * Use “terraform fmt” in your root and submodules to keep your project clean
   * GitHub actions should be preconfigured to verify that your PRs contain valid Terraform
   * In your README.md and examples, avoid using any credentials that look like real credentials.  Avoid IP addresses that are real public IP addresses. These credentials will be flagged and reviewed by the security team and will waste the time of everyone involved (I am writing this after receiving a phone call about a flagged phony credential :-) ).
@@ -79,4 +79,7 @@ Indicate any new features between tags and use the keepachangelog.com format wit
 3. Join the Terraform team: [https://github.com/orgs/equinix-labs/teams/terraform/members](https://github.com/orgs/equinix-labs/teams/terraform/members)
   * Let an existing member of the team know that you’ve requested access so that they can approve your request.
 4. Review and Merge PRs
+
+
+[Terraform Module Development Standards]: terraform-module-standards.md
 
