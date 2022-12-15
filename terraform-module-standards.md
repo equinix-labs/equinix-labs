@@ -91,7 +91,7 @@ Open source modules should be published to the [Terraform Registry](https://regi
 
 ### Helper scripts (not called by Terraform)
 
-* Helper scripts should be organized in a `./helpers` directory.
+* Helper scripts should be organized in a `helpers/` directory.
 * Helper scripts shall be documented in the `README` with an explanation and example invocations.
 * Helper scripts accepting arguments should provide argument-checking and `--help` output.
 
@@ -102,7 +102,7 @@ Open source modules should be published to the [Terraform Registry](https://regi
 
 ### Templates
 
-* Files which are injected with the Terraform [templatefile function](https://developer.hashicorp.com/terraform/language/functions/templatefile) should be given the file extension `.tpl`.
+* Files which are injected with the Terraform [templatefile function](https://developer.hashicorp.com/terraform/language/functions/templatefile) should be given the file extension `.tftpl`.
 * Templates must be placed in `templates/`.
 
 ### Resources
