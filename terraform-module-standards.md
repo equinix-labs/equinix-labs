@@ -1,6 +1,6 @@
 # Terraform Module Development Standards
 
-This document serves as a guidepost for effective development with Terraform. Our goal is to provide a unified and consistent approach to managing code by outlining some rules of engagement. These following standards cover basic style and structure for your Terraform module configurations. Portions of this page are modifications based on work created and [shared by Google](https://developers.google.com/readme/policies) and used according to terms described in the [Creative Commons 4.0 Attribution License](https://creativecommons.org/licenses/by/4.0/).
+This document serves as a guidepost for effective development with Terraform. Our goal is to provide a unified and consistent approach to managing code by outlining some rules of engagement. These following standards cover basic style and structure for your Terraform module configurations.
 
 The key words MUST, MUST NOT, REQUIRED, SHALL, SHALL NOT, SHOULD, SHOULD NOT, RECOMMENDED, MAY, and OPTIONAL in this document are to be interpreted as described in [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
@@ -390,3 +390,8 @@ module "vpc" {
   ...
 }
 ```
+
+Portions of this page are modifications based on work created and [shared by Google][def] and used according to terms described in the [Creative Commons 4.0 Attribution License][def2].
+
+[def]: https://cloud.google.com/docs/terraform/best-practices-for-terraform
+[def2]: https://creativecommons.org/licenses/by/4.0/
