@@ -56,12 +56,11 @@ Steps:
 * In your README.md and examples, avoid using any credentials that look like real credentials.  Avoid IP addresses that are real public IP addresses. These credentials will be flagged and reviewed by the security team and will waste the time of everyone involved (I am writing this after receiving a phone call about a flagged phony credential :-) ).
 * When working on changes, Branch Protection may be enabled which will prevent pushing directly to the `main` branch. Use branches and open PRs against those branches. With the approval of any other member of the "equinix-labs/terraform" team, your PR may be merged. It is also possible to disable branch protection.
 * Follow the [Conventional Commit Specification] to properly format and submit commits. Other types are allowed, based on the [Angular Convention types]. Example commit message: `fix: disabled log generation for system services`. For more examples, see [commit examples].
-* Submit a PR when ready. The following [Angular Convention types] are supported in the PR title: fix, feat, docs, ci, and chore. Add the `[WIP]` prefix to indicate that the PR represents "work in progress". PR title must start with an upper case character after the colon `:`. Example PR Title: `fix: Disabled log generation for system services`
+* Submit a PR when ready.
 
-6. <a name="tag"></a> When your code has reached any level of stability (“it does what it says it does”), submit a PR following the format highlighted in the previous section 5. When you submit a PR, it should trigger two github workflow CI jobs: `run-pre-commit-hooks` and `validate-pr-title`. Once it is approved and merged, it will then trigger yet another two gihub workflow CI jobs: `generate-terraform-docs` and `generate-release`.
+6. <a name="tag"></a> When your code has reached any level of stability (“it does what it says it does”), submit a PR following the format highlighted in the previous section 5. When you submit a PR, it should trigger a github workflow CI job: `run-pre-commit-hooks`. Once it is approved and merged, it will then trigger yet another gihub workflow CI job: `generate-terraform-docs`.
 
 * The `run-pre-commit-hooks` github CI job will run checks on terraform, md, bash shell, python, yaml, and json files.
-* The `validate-pr-title` github CI job will validate the title of the PR. PR title must start with an upper case character after the colon `:`. It must contain one of the keywords (i.e feat, fix, docs, etc) stated in the [Conventional Commit Specification].
 * The `generate-terraform-docs` github CI job will populate the main README.md, the modules README.md and the examples README.md file.
 * The `generate-release` github CI job relies on the [semantic release action]
 * This action is configured with 2 major plugins: `commit-analyzer` and `release-notes-generator`
