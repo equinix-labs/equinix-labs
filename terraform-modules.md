@@ -110,7 +110,7 @@ Steps:
 
 2. <a name="develop"></a> Review the guidelines offered above (Steps 5-7)
 
-3. <a name="jointeam"></a> Join the [Equinis-labs Terraform team]
+3. <a name="jointeam"></a> Join the [Equinix-labs Terraform team]
 
 * Let an existing member of the team know that you’ve requested access so that they can approve your request.
 
@@ -123,7 +123,7 @@ Steps:
 [Equinix-Labs Org Members]: https://github.com/orgs/equinix-labs/people
 [Publish a Terraform module]: https://registry.terraform.io/github/create
 [HashiCorp Publishing Modules article]: https://developer.hashicorp.com/terraform/registry/modules/publish
-[Equinis-labs Terraform team]: https://github.com/orgs/equinix-labs/teams/terraform/members
+[Equinix-labs Terraform team]: https://github.com/orgs/equinix-labs/teams/terraform/members
 [Select an Organization]: https://registry.terraform.io/publish/provider
 [Conventional Commit Specification]: https://www.conventionalcommits.org/en/v1.0.0/#specification
 [Angular Convention types]: https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type
