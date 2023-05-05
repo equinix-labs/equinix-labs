@@ -328,11 +328,11 @@ Publishing outputs with remote states:
 
 ### Terraform
 
-Terraform v0.12 is a significant release that includes some backwards incompatibilities and significant changes with each new version. Once a Terraform config has been upgraded to Terraform 0.12, it should be pinned to the latest release it has been tested with.
+Terraform v0.13.0 is recommended that any module taking advantage of Provider Metadata functionality should specify a minimum Terraform version of 0.13.0 or higher.
 
 ```hcl
 terraform {
-  required_version = "~> 0.12.16"
+  required_version = "~> 0.13.0"
 }
 ```
 
@@ -345,7 +345,7 @@ You should make updating the version pin a regular practice:
 ```hcl
 provider "equinix" {
   source = "equinix/equinix"
-  version = "= 1.11.0-alpha.2"
+  version = "= 1.11.0"
 }
 ```
 
@@ -353,6 +353,11 @@ In shared modules, the provider version should **not** be pinned. Instead, a [ve
 
 ```hcl
 terraform { 
+  provider_meta "equinix" {
+    # Set the name of the module below 
+    module_name = "equinix-labs"
+  }
+
   required_providers { 
     equinix = {
         source = "equinix/equinix"
