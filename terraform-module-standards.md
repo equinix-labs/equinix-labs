@@ -22,6 +22,14 @@ Open source modules should be published to the [Terraform Registry](https://regi
 * Only Terraform (`*.tf`) and repo metadata files (like `README.md`, `CHANGELOG.md`, or `kitchen.yml`) should exist at the root directory of a module.
 * Additional documentation should be stored in a `docs/` subdirectory.
 
+### Lock File & Version Constraints
+
+Terraform automatically creates a `.terraform.lock.hcl` file when it is initialized.  The lock file helps guard against unintentional provider upgrades for configurations of production other long-lived infrastructure.  A reusable module, such as the ones in Equinix Labs, _should not_ maintain a lock file.
+
+Instead, for any reusable terraform module:
+- Ensure that `.terraform.lock.hcl` is included in `.gitignore` and remove it from git if it was committed previously
+- Ensure that provider version constraints are flexible, [according to Hashicorp recommendations](https://developer.hashicorp.com/terraform/language/expressions/version-constraints#terraform-core-and-provider-versions)
+
 ### Naming Convention
 
 * All configuration objects should be named using underscores to delimit multiple words. This practice ensures consistency with the naming convention for resource types, data source types, and other prede ned values. Note that this convention does not apply to name [arguments](https://developer.hashicorp.com/terraform/language/resources/syntax#resource-arguments).
