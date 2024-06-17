@@ -16,30 +16,6 @@ Contributing notes may be included in README.md or in a separate CONTRIBUTING.md
 
 [Developer Certificate of Origin](https://github.com/apps/dco) provides basic accountability for the code being submitted to the project.
 
-## End of Life Badge
-
-[![End of Life](https://img.shields.io/badge/Stability-EndOfLife-black.svg)](end-of-life-statement.md#end-of-life-statements)
-
-## End of Life Statement
-
-This repository is [End of Life](end-of-life-statement.md) meaning that this software is no longer supported nor maintained by Equinix Metal or its community.
-
-## Deprecated Badge
-
-[![Deprecated](https://img.shields.io/badge/Stability-Deprecated-black.svg)](deprecated-statement.md#deprecated-statements)
-
-## Deprecated Statement
-
-This repository is [Deprecated](deprecated-statement.md) meaning that this software is not recommended, improved, by Equinix Metal or its community. Maintaince will slow until the project reaches End of Life.
-
-## Experimental Badge
-
-[![Experimental](https://img.shields.io/badge/Stability-Experimental-red.svg)](experimental-statement.md#experimental-statement)
-
-## Experimental Statement
-
-This repository is [Experimental](experimental-statement.md) meaning that it's based on untested ideas or techniques and not yet established or finalized or involves a radically new and innovative style! This means that support is best effort (at best!) and we strongly encourage you to NOT use this in production.
-
 ## Getting Started Tutorial
 
 May be included in the README.md and needs to include:
@@ -51,14 +27,6 @@ May be included in the README.md and needs to include:
 ## LICENSE
 
 Every OSS project should include an approved OSS license. Observe instructions in the license file about copyright notices. When forking, honor (do not strip) copyright notices. The licenses may stipulate when and how additional copyrights should be applied.  Copyright notices should be assigned to “Equinix Metal”, not the individuals working on the project.
-
-## Maintained Badge
-
-[![Maintained](https://img.shields.io/badge/Stability-Maintained-green.svg)](maintained-statement.md#maintained-statements)
-
-## Maintained Statement
-
-This repository is [Maintained](maintained-statement.md) meaning that this software is supported by Equinix Metal and its community - available to use in production environments.
 
 ## Maintainer
 
@@ -88,7 +56,6 @@ Readme files pertain to the contents of a directory or the scope of a repository
 * Requirements: If a project requires API tokens, link to the token creation instructions. In general, cut out the need for users to seek supplementary information seeking without repeating instructions. Make sure to indicate the widest tested range of versions for required software and libraries.
 * Installation Instructions: Make sure to provide instructions for Mac, Linux, Windows when available. Try to cover both sides in split ecosystems: Python2/Python3, Helm2/Helm3, Bundler/Gem, for example.
 * Usage: Cover the most basic usage and common use-cases. Refer to the documentation for more details. If the project is new and no formal documentation exists, all options should be presented. Once documentation exists, to avoid duplication, replace detailed usage sections with references to the documentation.
-* Support expectations: Is this an experimental or maintained project.  Include our standard definition and terms for the given state.
 * Limitations: Is ARM supported? What Equinix Metal features or service flags are required? Are these features available in all regions? The following features are not available in all facilities, for example storage, global ipv4, backend transfer.
 
 ## RELEASE.md
